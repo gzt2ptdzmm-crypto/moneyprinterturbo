@@ -85,7 +85,7 @@ video_source = "pexels"
 pexels_api_keys = []
 
 # Register at https://pixabay.com/api/docs/
-pixabay_api_keys = [58038013-45b54fcacfe8f6b32f1b0c496]
+pixabay_api_keys = ["58038013-45b54fcacfe8f6b32f1b0c496"]
 
 # Register at https://coverr.co/developers?ctx=header_navigation
 coverr_api_keys = []
